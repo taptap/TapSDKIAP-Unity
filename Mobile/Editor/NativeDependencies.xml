@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<dependencies>
+  <androidPackages>
+    <repositories>
+      <repository>https://repo.maven.apache.org/maven2</repository>
+    </repositories>
+    <androidPackage spec="com.taptap.android.payment:unity:4.4.0"/>
+    <androidPackage spec="com.taptap.android.payment:stripe:4.4.0"/>
+    <androidPackage spec="com.taptap.android.payment:alipay:4.4.0"/>
+    <androidPackage spec="com.taptap.android.payment:braintree:4.4.0"/>
+  </androidPackages>
+</dependencies>
