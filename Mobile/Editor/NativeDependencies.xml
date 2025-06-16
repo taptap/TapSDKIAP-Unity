@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<dependencies>
+  <androidPackages>
+    <repositories>
+      <repository>https://repo.maven.apache.org/maven2</repository>
+      <repository>https://nexus.xmxdev.com/repository/maven-public</repository>
+    </repositories>
+    <androidPackage spec="com.taptap.android.payment:unity:4.6.1-alpha.13"/>
+    <androidPackage spec="com.taptap.android.payment:stripe:4.6.1-alpha.13"/>
+    <androidPackage spec="com.taptap.android.payment:alipay:4.6.1-alpha.13"/>
+    <androidPackage spec="com.taptap.android.payment:braintree:4.6.1-alpha.13"/>
+    <androidPackage spec="com.taptap.android.payment:alipaycn:4.6.1-alpha.13"/>
+    <androidPackage spec="com.taptap.android.payment:wechat:4.6.1-alpha.13"/>
+  </androidPackages>
+</dependencies>
