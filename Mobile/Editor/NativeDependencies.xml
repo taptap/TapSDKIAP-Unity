@@ -3,12 +3,13 @@
   <androidPackages>
     <repositories>
       <repository>https://repo.maven.apache.org/maven2</repository>
+      <repository>https://nexus.xmxdev.com/repository/maven-public</repository>
     </repositories>
-    <androidPackage spec="com.taptap.android.payment:unity:4.6.3"/>
-    <androidPackage spec="com.taptap.android.payment:stripe:4.6.3"/>
-    <androidPackage spec="com.taptap.android.payment:alipay:4.6.3"/>
-    <androidPackage spec="com.taptap.android.payment:braintree:4.6.3"/>
-    <androidPackage spec="com.taptap.android.payment:alipaycn:4.6.3"/>
-    <androidPackage spec="com.taptap.android.payment:wechat:4.6.3"/>
+    <androidPackage spec="com.taptap.android.payment:unity:4.7.0-alpha.14"/>
+    <androidPackage spec="com.taptap.android.payment:stripe:4.7.0-alpha.14"/>
+    <androidPackage spec="com.taptap.android.payment:alipay:4.7.0-alpha.14"/>
+    <androidPackage spec="com.taptap.android.payment:braintree:4.7.0-alpha.14"/>
+    <androidPackage spec="com.taptap.android.payment:alipaycn:4.7.0-alpha.14"/>
+    <androidPackage spec="com.taptap.android.payment:wechat:4.7.0-alpha.14"/>
   </androidPackages>
 </dependencies>
